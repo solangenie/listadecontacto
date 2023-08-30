@@ -45,8 +45,8 @@ let nuevocontacto=
 
 
 agregarcontacto(nuevocontacto);
-console.log(nuevocontacto);
-borracontacto(2);
-imprimircontacto ();
+imprimircontacto();
+borracontacto(1);
+imprimircontacto();
 //agregarcontacto("");
 //console.log(listacontactos);
